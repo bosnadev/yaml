@@ -9,7 +9,7 @@ Installation
 Run the following command from your terminal:
 
 ```
-composer require "bosnadev/yaml: 0.*"
+composer require "bosnadev/yaml: 1.*"
 ```
 
 or add this to require section in your composer.json file:
