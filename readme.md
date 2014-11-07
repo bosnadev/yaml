@@ -1,7 +1,8 @@
 Yaml file support for Laravel 4 Configuration
 ====
 
-This package is based on a devitek/yaml-configuration package. It uses Symfony/Yaml parser. This Yaml configuration package is part of Larapress CMS.
+This package is based on a [devitek/yaml-configuration](https://github.com/Devitek/laravel-yaml-configuration/) package. It uses Symfony/Yaml parser.
+Yaml configuration package is part of Larapress CMS.
 
 Installation
 ====
@@ -15,7 +16,7 @@ composer require "bosnadev/yaml: 1.*"
 or add this to require section in your composer.json file:
 
 ```
-"bosnadev/yaml": "0.*"
+"bosnadev/yaml": "1.*"
 ```
 
 and run ```composer update```
