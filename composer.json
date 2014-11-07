@@ -1,0 +1,30 @@
+{
+    "name": "bosnadev/yaml",
+    "description": "A package to add Yaml file support for Laravel 4 Configuration",
+    "keywords": [
+        "laravel",
+        "yaml",
+        "config",
+        "larapress",
+        "symfony"
+    ],
+    "authors": [
+        {
+            "name": "Mirza Pasic",
+            "email": "mirza.pasic@edu.fit.ba"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Bosnadev\\Yaml\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
